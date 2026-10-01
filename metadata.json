@@ -1,0 +1,6 @@
+{
+  "name": "EduGenie: AI Personalized Learning Paths & Mastery Platform",
+  "description": "Empowers students with personalized AI learning paths, real-time mastery tracking, automated adaptive quizzes, and a collaborative peer-to-peer discussion forum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
